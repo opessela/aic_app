@@ -11,7 +11,7 @@ url='http://172.22.163.35:8080/ins'
 switchuser='admin'
 switchpassword='nbv_12345'
 
-debug=1
+debug=0
 
 myheaders={'content-type':'application/json-rpc'}
 payload=[
