@@ -19,7 +19,7 @@ payload=[
     "jsonrpc": "2.0",
     "method": "cli",
     "params": {
-      "cmd": "show zoneset active",
+      "cmd": "show zoneset active"an 10
       "version": 1.2
     },
     "id": 1
