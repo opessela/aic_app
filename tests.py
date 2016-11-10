@@ -1,6 +1,5 @@
 import app
 import unittest
-import aic_api
 
 class FlaskTestCase(unittest.TestCase):
 
